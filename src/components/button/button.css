@@ -1,0 +1,24 @@
+.btn {
+    padding: 1rem 0.8rem;
+    width: 120px;
+    background: #e2d7d7;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn.add {
+    background: rgb(11, 189, 11);
+}
+
+.btn.remove {
+    background: tomato;
+}
+
+.btn.checkout {
+    background: rgb(54, 241, 54);
+}
+
+.btn.disable {
+    opacity: 0.5;
+}
